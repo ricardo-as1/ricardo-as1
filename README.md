@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋! Eu sou o Ricardo</h1>
+<h2 align="left">Olá 👋! Eu sou o Ricardo</h2>
 
 ###
 
@@ -14,23 +14,18 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.instagram.com/kingzin.021/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="rd.ricardo145@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/channels/@904451208901722142" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+<img align="right" height="141" src="https://scontent.fcpq17-1.fna.fbcdn.net/v/t1.6435-9/67929292_396013297717020_7519448692512784384_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEIf7hQ6WMmOnOluIvOg79xHZIaDN0y7xkdkhoM3TLvGdUdpK5YJRj-SXi_qXtpw8lFogMiJcsH7qtkytMp14A8&_nc_ohc=hzc0W7IDCsQQ7kNvgEdAPO_&_nc_ht=scontent.fcpq17-1.fna&oh=00_AYB1iHzhzCRBr0fRiHliSA7OzOSTlWi0WbL92VSeGoJ5gQ&oe=66EB818D"  />
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeivU4LQQhpbRJrLkk-DBz0DOkjmtM9rXAWJkagP5htF1SDUciaB-yQ0KHlVaBLSftnss&usqp=CAU"  />
+<div align="left">
+  <a href="https://www.instagram.com/kingzin.021/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="33" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/HKkHaqPNac" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="33" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 
@@ -44,10 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
 
 ###
