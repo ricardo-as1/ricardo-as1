@@ -2,7 +2,7 @@ js
 console.log(`Hey Vsauce. Michael here, your system is very safe... Or is it?`);
 
 
-![banner]([https://github.com/Niximkk/Niximkk/assets/85513545/f341d119-f288-4f73-a499-63ec67826a73](https://br.freepik.com/fotos-premium/fundo-de-paisagem-de-montanha-com-textura-escura-minima-papel-de-parede-moderno-ilustracao-de-banner-grafico-simples-panorama_39460240.htm))
+![banner](https://br.freepik.com/vetores-premium/fundo-de-banner-azul-marinho-escuro-molde-abstrato-do-fundo-do-teste-padrao-da-bandeira-do-design-grafico-do-vetor_21459665.htm))
 
 <p align="center">
   <a href="https://skillicons.dev">
