@@ -1,5 +1,5 @@
 ```js
-console.log(`Hey, this is ricardo-as1. Is your code secure... or does it just seem that way?`);
+console.log(`Hello, visitor. Is my code secure... or is it just how it looks?`);
 ```
 
 <p align="center">
