@@ -1,8 +1,8 @@
-js
-console.log(`Hey Vsauce. Michael here, your system is very safe... Or is it?`);
+```js
+console.log(`Hey, this is ricardo-as1. Is your code secure... or does it just seem that way?`);
+```
 
-
-![banner]([https://br.freepik.com/vetores-premium/fundo-de-banner-azul-marinho-escuro-molde-abstrato-do-fundo-do-teste-padrao-da-bandeira-do-design-grafico-do-vetor_21459665.htm])
+![banner](https://image.freepik.com/vetores-premium/fundo-de-banner-azul-marinho-escuro-molde-abstrato-do-fundo-do-teste-padrao-da-bandeira-do-design-grafico-do-vetor_21459665.jpg)
 
 <p align="center">
   <a href="https://skillicons.dev">
