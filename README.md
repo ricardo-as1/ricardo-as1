@@ -2,7 +2,7 @@ js
 console.log(`Hey Vsauce. Michael here, your system is very safe... Or is it?`);
 
 
-![banner](https://br.freepik.com/vetores-premium/fundo-de-banner-azul-marinho-escuro-molde-abstrato-do-fundo-do-teste-padrao-da-bandeira-do-design-grafico-do-vetor_21459665.htm))
+![banner](([https://br.freepik.com/vetores-premium/fundo-de-banner-azul-marinho-escuro-molde-abstrato-do-fundo-do-teste-padrao-da-bandeira-do-design-grafico-do-vetor_21459665.htm]))
 
 <p align="center">
   <a href="https://skillicons.dev">
