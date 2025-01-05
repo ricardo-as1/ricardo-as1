@@ -12,14 +12,6 @@
 console.log(`Hello, visitor. Is my code secure... or is it just how it looks?`);
 ```
 
-<div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; align-items: center;">
-  <a href="https://discord.gg/PaePgHD6e9" title="Alpha Group Discord" target="_blank">
-    <img src="https://share.creavite.co/6754a44801dbfe495dee440a.gif" style="width: 400px; border-radius: 17px;">
-  </a>
-  <a href="https://discord.gg/HKkHaqPNac" title="Dev's Company Discord" target="_blank">
-  <img src="https://share.creavite.co/6754a6b701dbfe495dee4413.gif" style="width: 400px; border-radius: 17px;">
-</div>
-
 <a>
 
 ***
