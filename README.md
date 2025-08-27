@@ -18,7 +18,7 @@ console.log(`Hello, visitor. Is my code secure... or is it just how it looks?`);
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,html,css,js,bots,discordjs,vscode,webstorm,windows,ubuntu" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=github,nodejs,npm,html,css,js,bots,discordjs,vscode,webstorm" alt="Skills" />
   </a>
 </p>
 
