@@ -32,9 +32,9 @@
 
 
 ## 📂 Projetos
-- [QRCode Generator](https://github.com/seuusuario/qrcode-generator) → Projeto em **JavaScript + TailwindCSS** para geração de QR Codes.  
-- [Bot Discord](https://github.com/ricardo-as1/Hyouka) _(incompleto)_ → Projeto completo em **JavaScript**.
-- [Base Bots Discord](https://github.com/ricardo-as1/BaseBotsDiscordJS) → Projeto completo em **JavaScript**, com **DataBase** local e comandos padrões.
+- [QRCode Generator](https://github.com/seuusuario/qrcode-generator) _(Desenvolvimento)_ → Projeto em **JavaScript + TailwindCSS** para geração de QR Codes.  
+- [Bot Discord](https://github.com/ricardo-as1/Hyouka) _(incompleto)_ → Bot discord completo em **JavaScript**.
+- [Base Bots Discord](https://github.com/ricardo-as1/BaseBotsDiscordJS) → Base de bots completo em **JavaScript**, com **DataBase** local e comandos padrões.
 - (em breve mais 🚀)
 
 ***
