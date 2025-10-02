@@ -18,20 +18,20 @@
 [![wakatime](https://wakatime.com/badge/user/487bcb6c-fc3b-48c0-8059-213a8dfb048c/project/27d4051b-3f6a-4eac-be5f-6f763db6f9b1.svg)](https://wakatime.com/badge/user/487bcb6c-fc3b-48c0-8059-213a8dfb048c/project/27d4051b-3f6a-4eac-be5f-6f763db6f9b1)
 
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Ricardo
                 <b><a target="_blank" href="https://ricardo-qrcode.web.app">Dev</a></b>
         </samp>
 </h3>
 
 
-<p align="center"> 
+<h3 align="center"> 
   <samp>
     「 Eu sou um Developer Back-End Javascript, <b>Brasil</b> 」
     <br>
     <br>
   </samp>
-</p>
+</h3>
 
 <p align="center">
  <a href="https://ricardo-qrcode.web.app" target="blank">
