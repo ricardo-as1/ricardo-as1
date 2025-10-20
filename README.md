@@ -1,15 +1,11 @@
-<!--
 <h2 align="center">
   Bem-vindo ao meu perfil!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
 
-<!--
 <p align="center">
   <a href="https://github.com/ricardo"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
- -->
 
 <a href="https://komarev.com/ghpvc/?username=ricardo-as1">
   <img align="right" src="https://komarev.com/ghpvc/?username=ricardo-as1&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -29,6 +25,8 @@
   <samp>
     「 Eu sou um Developer Back-End Javascript, <b>Brasil</b> 」
     <br>
+    📧 Contato: albinoricardosena@gmail.com<br/>
+    <br>
     <br>
   </samp>
 </h3>
@@ -39,11 +37,11 @@
  </a>
 </p>
 
- # 👀 Sobre mim
+ # 👀 Formações
  
 <p>
- - &emsp; Curso de eletricista de manutenção eletroeletronica em andamento<br/>
- - &emsp; Curso de programação em python em andamento <br/>
+ - &emsp; Eletricista de Manutenção Eletroeletronica - Senai *Em andamento*<br/>
+ - &emsp; Programação em Python(60h) - Senai *Em andamento* <br/>
  - &emsp; Excel - SENAI  <br/>
  - &emsp; Ética na IA - SENAI  <br/>
  - &emsp; Segurança do trabalho - SENAI<br/>
@@ -52,20 +50,19 @@
  - &emsp; FluêncIA - Fundamentos da Inteligência Artificial - SENAI<br/>
  - &emsp; Ciclos de Retorno para Economia Circular - SENAI<br/>
  - &emsp; Acelerando a Transição para a Economia Circular - SENAI<br/>
- - &emsp; Email: albinoricardosena@gmail.com<br/>
 </p>
 
 ## ⛏️ Tecnologias utilizadas
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)  
+![Node.js](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5‑E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3‑1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS‑092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)  
+![VS Code](https://img.shields.io/badge/Visual_Studio‑0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)  
+![Git](https://img.shields.io/badge/Git‑F05032?style=for-the-badge&logo=git&logoColor=white)
 <br/>
 
 ## 🚀 Projetos em Destaque
