@@ -47,6 +47,11 @@
  - &emsp; Excel - SENAI  <br/>
  - &emsp; Ética na IA - SENAI  <br/>
  - &emsp; Segurança do trabalho - SENAI<br/>
+ - &emsp; Por dentro da Segurança Cibernética - SENAI  <br/>
+ - &emsp; Desvendando a Descarbonização - SENAI  <br/>
+ - &emsp; FluêncIA - Fundamentos da Inteligência Artificial - SENAI<br/>
+ - &emsp; Ciclos de Retorno para Economia Circular - SENAI<br/>
+ - &emsp; Acelerando a Transição para a Economia Circular - SENAI<br/>
  - &emsp; Email: albinoricardosena@gmail.com<br/>
 </p>
 
