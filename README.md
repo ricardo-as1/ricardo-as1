@@ -3,13 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
+<!--
 <p align="center">
   <a href="https://github.com/ricardo"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=ricardo-as1">
   <img align="right" src="https://komarev.com/ghpvc/?username=ricardo-as1&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+</a>-->
 
 [![wakatime](https://wakatime.com/badge/user/487bcb6c-fc3b-48c0-8059-213a8dfb048c/project/27d4051b-3f6a-4eac-be5f-6f763db6f9b1.svg)](https://wakatime.com/badge/user/487bcb6c-fc3b-48c0-8059-213a8dfb048c/project/27d4051b-3f6a-4eac-be5f-6f763db6f9b1)
 
