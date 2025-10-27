@@ -1,20 +1,19 @@
-<h2 align="center">
+<!--<h2 align="center">
   Bem-vindo ao meu perfil!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-<!--
+
 <p align="center">
   <a href="https://github.com/ricardo"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=ricardo-as1">
   <img align="right" src="https://komarev.com/ghpvc/?username=ricardo-as1&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>-->
+</a>
 
 [![wakatime](https://wakatime.com/badge/user/487bcb6c-fc3b-48c0-8059-213a8dfb048c/project/27d4051b-3f6a-4eac-be5f-6f763db6f9b1.svg)](https://wakatime.com/badge/user/487bcb6c-fc3b-48c0-8059-213a8dfb048c/project/27d4051b-3f6a-4eac-be5f-6f763db6f9b1)
 
-<!-- Intro  -->
 <h1 align="center">
         <samp>&gt; Ricardo
                 <b><a target="_blank" href="https://ricardo-qrcode.web.app">Dev</a></b>
@@ -64,7 +63,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<br/>
+<br/>-->
 
 ## 🚀 Projetos em Destaque
 [![QRcode](https://github-readme-stats.vercel.app/api/pin/?username=ricardo-as1&repo=QRcode&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ricardo-as1/QRcode)
